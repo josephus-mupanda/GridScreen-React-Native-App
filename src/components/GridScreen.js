@@ -38,17 +38,17 @@ const GridScreen = () => {
         { id: 7, title: 'Item 7', description: 'Description 7', color: '#0000ff', iconName: 'md-star' },
         { id: 8, title: 'Item 8', description: 'Description 8', color: '#ffff00', iconName: 'md-square' },
         { id: 9, title: 'Item 9', description: 'Description 9', color: '#ff0000', iconName: 'md-star' },
-        { id: 10, title: 'Item 10', description: 'Description 10', color: '#00ff00', iconName: 'md-heart' },
-        { id: 11, title: 'Item 11', description: 'Description 11', color: '#0000ff', iconName: 'md-star' },
-        { id: 12, title: 'Item 12', description: 'Description 12', color: '#ffff00', iconName: 'md-square' },
+        { id: 10, title: 'Item 10', description: 'Description 10', color: '#ff0000', iconName: 'md-heart' },
+        { id: 11, title: 'Item 11', description: 'Description 11', color: '#ff0000', iconName: 'md-star' },
+        { id: 12, title: 'Item 12', description: 'Description 12', color: '#ff0000', iconName: 'md-square' },
         { id: 13, title: 'Item 13', description: 'Description 13', color: '#ff0000', iconName: 'md-star' },
-        { id: 14, title: 'Item 14', description: 'Description 14', color: '#00ff00', iconName: 'md-heart' },
-        { id: 15, title: 'Item 15', description: 'Description 15', color: '#0000ff', iconName: 'md-star' },
-        { id: 16, title: 'Item 16', description: 'Description 16', color: '#ffff00', iconName: 'md-square' },
+        { id: 14, title: 'Item 14', description: 'Description 14', color: '#ff0000', iconName: 'md-heart' },
+        { id: 15, title: 'Item 15', description: 'Description 15', color: '#ff0000', iconName: 'md-star' },
+        { id: 16, title: 'Item 16', description: 'Description 16', color: '#ff0000', iconName: 'md-square' },
         { id: 17, title: 'Item 17', description: 'Description 17', color: '#ff0000', iconName: 'md-star' },
-        { id: 18, title: 'Item 18', description: 'Description 18', color: '#00ff00', iconName: 'md-heart' },
-        { id: 19, title: 'Item 19', description: 'Description 19', color: '#0000ff', iconName: 'md-star' },
-        { id: 20, title: 'Item 20', description: 'Description 20', color: '#ffff00', iconName: 'md-square' }
+        { id: 18, title: 'Item 18', description: 'Description 18', color: '#ff0000', iconName: 'md-heart' },
+        { id: 19, title: 'Item 19', description: 'Description 19', color: '#ff0000', iconName: 'md-star' },
+        { id: 20, title: 'Item 20', description: 'Description 20', color: '#ff0000', iconName: 'md-square' }
     ];
 
 
